@@ -11,8 +11,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".AboutAppActivity"
-            android:label="About"></activity>
+        <activity android:name=".TodayMatch"></activity>
+        <activity
+            android:name=".AboutAppActivity"
+            android:label="About" />
         <activity
             android:name=".InfoActivity"
             android:label="Info"

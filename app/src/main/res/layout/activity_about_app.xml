@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".AboutAppActivity"
-    android:background="@drawable/deep_space">
+    android:background="#dfe6e9">
 
     <TextView
         android:id="@+id/textView3"

@@ -26,7 +26,7 @@ public class MatchDetailsAdapter extends ArrayAdapter<MatchDetails> {
         View listItemView = convertView;
         if (listItemView == null) {
 
-            listItemView = LayoutInflater.from(getContext()).inflate(R.layout.list_item, parent, false);
+            listItemView = LayoutInflater.from(getContext()).inflate(R.layout.full_schedule_list_item, parent, false);
 
         }
 

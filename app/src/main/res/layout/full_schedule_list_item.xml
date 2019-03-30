@@ -40,7 +40,7 @@
                 android:gravity="center_vertical"
                 android:textAlignment="gravity"
                 android:textColor="@color/colorAccent"
-                android:textSize="15sp"
+                android:textSize="16sp"
                 android:textStyle="bold"
                 tools:text="Home Team" />
 
@@ -63,7 +63,7 @@
                 android:gravity="center_vertical"
                 android:textAlignment="gravity"
                 android:textColor="@color/colorAccent"
-                android:textSize="15sp"
+                android:textSize="16sp"
                 android:textStyle="bold"
                 tools:text="Rival Team" />
 
@@ -88,7 +88,7 @@
             android:fontFamily="serif-monospace"
             android:textAlignment="center"
             android:textColor="@color/colorAccent"
-            android:textSize="15sp"
+            android:textSize="16sp"
             android:textStyle="bold|italic"
             tools:text="date" />
 
@@ -99,7 +99,7 @@
             android:fontFamily="serif-monospace"
             android:textAlignment="center"
             android:textColor="@color/colorAccent"
-            android:textSize="15sp"
+            android:textSize="16sp"
             android:textStyle="bold|italic"
             tools:text="stadium" />
     </LinearLayout>
